@@ -1,0 +1,92 @@
+{
+    "1": {
+        "pregunta": "¿Qué colores preferirías?",
+        "respuestas": [
+            "Rojo",
+            "Verde",
+            "Amarillo",
+            "Azul"
+        ]
+    },
+    "2": {
+        "pregunta": "¿Qué animal crees que te representa más?",
+        "respuestas": [
+            "León",
+            "Serpiente",
+            "Tejón",
+            "Cuervo"
+        ]
+    },
+    "3": {
+        "pregunta": "Si tuvieras qué defender lo que crees, ¿lo dejarías de lado?",
+        "respuestas": [
+            "No, daría toda mi capacidad por ello",
+            "Dudaría y pensaría antes de actuar",
+            "Sería cuidadoso, pero lo haría",
+            "Investogaría los posibles riesgos antes de hacerlo"
+        ] 
+    },
+    "4": {
+        "pregunta": "¿Estarías dispuesto a defender tus objetivos incluso si tuvieras que romper las reglas?",
+        "respuestas": [
+            "Claro que sí",
+            "Problemente sí",
+            "Si es por un bien común sí",
+            "Depende de los problemas que pueda traer"
+        ]
+    },
+    "5": {
+        "pregunta": "¿Qué de las siguientes opciones consideras más valioso?",
+        "respuestas": [
+            "Tener coraje",
+            "Ser ambicioso",
+            "Buscar la justicia",
+            "Tener creatividad"
+        ]
+    },
+    "6": {
+        "pregunta": "¿Qué característica te identifica más cómo persona?",
+        "respuestas": [
+            "El valor",
+            "La astucia",
+            "La lealtad",
+            "La sabiduría"
+        ]
+    },
+    "7": {
+        "pregunta": "Si estás en un grupo de personas ¿qué buscas?",
+        "respuestas":[
+            "Aportar un escudo para ellos, ser un miembro valioso",
+            "Ser el líder",
+            "Agradar a todos y hacer todos los amigos posibles",
+            "Aprender todo lo posible de los demás"
+        ]
+    },
+    "8": {
+        "pregunta": "¿Con cuál de los siguientes fantasmas vivirías más tranquilo?",
+        "respuestas":[
+            "Sir Nicholas de Mimsy-Porpington, un fantasma con la cabeza casi decapitada",
+            "El Barón sanguinario, un fantasma cubierto de sangre y muy enamorado",
+            "Un fraile muy alegre",
+            "Helena Ravenclaw, la hija de la fundadora de Ravenclaw, una mujer de clase"
+        ]
+    },
+    "9": {
+        "pregunta": "¿Qué instrumento para generar legado preferirías?",
+        "respuestas":[
+            "Ser recordado por mi velentía",
+            "Por ser el mejor de todos",
+            "Por siempre ayudar a los que pueda",
+            "Por el conocimiento que genero"
+        ]
+    },
+    "10": {
+        "pregunta": "¿A qué tipo de persona le darías en la madre?",
+        "respuestas":[
+            "A alguien que sea muy engreído con su persona",
+            "A alguien que se crea que puede con todo",
+            "A alguien que sea desleal",
+            "La neta prefiero llevarme la fiesta en paz"
+        ]
+    }
+}
